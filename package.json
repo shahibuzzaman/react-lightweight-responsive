@@ -1,0 +1,18 @@
+{
+  "name": "react-lightweight-responsive",
+  "version": "1.0.0",
+  "description": "a lightweight react responsive package.",
+  "main": "Responsive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-responsive"
+  ],
+  "author": "Shahibuzzaman",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
